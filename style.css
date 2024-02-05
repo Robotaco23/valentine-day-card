@@ -4,7 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-color: #fae1dd;
+  background-color: #D8BFD8;
 }
 
 .container {
@@ -22,11 +22,11 @@ body {
   position: relative;
   width: 300px;
   height: 200px;
-  background-color: #f08080;
+  background-color: 	#800080;
 }
 
 .envelope:before {
-  background-color: #f08080;
+  background-color: 	#800080;
   content: "";
   position: absolute;
   width: 212px;
@@ -39,7 +39,7 @@ body {
 
 .card {
   position: absolute;
-  background-color: #eae2b7;
+  background-color: 	#556B2F;
   width: 270px;
   height: 170px;
   top: 5px;
@@ -66,7 +66,7 @@ body {
   line-height: 25px;
   top: 19px;
   left: 85px;
-  color: #003049;
+  color: 	#000000;
 }
 
 .heart {
@@ -102,7 +102,7 @@ body {
 }
 .front {
   position: absolute;
-  border-right: 180px solid #f4978e;
+  border-right: 180px solid 	#800080;
   border-top: 95px solid transparent;
   border-bottom: 100px solid transparent;
   left: 120px;
@@ -115,7 +115,7 @@ body {
 .front:before {
   position: absolute;
   content: "";
-  border-left: 300px solid #f8ad9d;
+  border-left: 300px solid #9400D3;
   border-top: 195px solid transparent;
   left: -120px;
   top: -95px;
